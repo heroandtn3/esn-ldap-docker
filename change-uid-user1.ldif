@@ -1,0 +1,4 @@
+dn: cn=user1@email,dc=open-paas,dc=org
+changetype: modify
+replace: uid
+uid: updated user1
